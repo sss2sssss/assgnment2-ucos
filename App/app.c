@@ -11,7 +11,7 @@
 INT8U SW1_logic=1,led_stat=0;
 INT16U *ADCPtr,ADCValue=0;
 
-#define TASK_1_PRIO       5
+#define TASK_1_PRIO       4
 #define TASK_2_PRIO       1
 #define TASK_3_PRIO       3
 #define TASK_4_PRIO       2

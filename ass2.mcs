@@ -1,0 +1,293 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=D:\UTAR\Code\assgnment2-ucos\app.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File001]
+Location=D:\UTAR\Code\assgnment2-ucos\app_hooks.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File002]
+Location=D:\UTAR\Code\assgnment2-ucos\bsp.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File003]
+Location=D:\UTAR\Code\assgnment2-ucos\bsp_a.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={C6E07232-414F-4A0C-AF99-CD44E2B71960}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1 --defsym=__MPLAB_DEBUGGER_PICKIT2=1
+[File004]
+Location=D:\UTAR\Code\assgnment2-ucos\IOCon.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File005]
+Location=D:\UTAR\Code\assgnment2-ucos\os_cpu_a.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={C6E07232-414F-4A0C-AF99-CD44E2B71960}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1 --defsym=__MPLAB_DEBUGGER_PICKIT2=1
+[File006]
+Location=D:\UTAR\Code\assgnment2-ucos\os_cpu_c.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File007]
+Location=D:\UTAR\Code\assgnment2-ucos\os_cpu_util_a.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={C6E07232-414F-4A0C-AF99-CD44E2B71960}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1 --defsym=__MPLAB_DEBUGGER_PICKIT2=1
+[File008]
+Location=D:\UTAR\Code\assgnment2-ucos\os_dbg.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File009]
+Location=D:\UTAR\Code\assgnment2-ucos\os_core.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File010]
+Location=D:\UTAR\Code\assgnment2-ucos\os_flag.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File011]
+Location=D:\UTAR\Code\assgnment2-ucos\os_mbox.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File012]
+Location=D:\UTAR\Code\assgnment2-ucos\os_mem.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File013]
+Location=D:\UTAR\Code\assgnment2-ucos\os_mutex.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File014]
+Location=D:\UTAR\Code\assgnment2-ucos\os_q.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File015]
+Location=D:\UTAR\Code\assgnment2-ucos\os_sem.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File016]
+Location=D:\UTAR\Code\assgnment2-ucos\os_task.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File017]
+Location=D:\UTAR\Code\assgnment2-ucos\os_time.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File018]
+Location=D:\UTAR\Code\assgnment2-ucos\os_tmr.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File019]
+Location=D:\UTAR\Code\assgnment2-ucos\ADC.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File020]
+Location=D:\UTAR\Code\assgnment2-ucos\ass2.cof
+Folder=Output
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={6836D8CA-42BB-48FB-9E77-3F0AA8005073}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_PICKIT2=1 --defsym=__ICD2RAM=1
+[File021]
+Location=D:\UTAR\Code\assgnment2-ucos\ass2.hex
+Folder=Output
+DeviceName=PIC24FJ64GA002
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={6836D8CA-42BB-48FB-9E77-3F0AA8005073}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\src\libm||$(INCDIR)|.\uCOS-II;.\Ports;.\App;C:\Program Files (x86)\Microchip\xc16\v1.24\inc||$(LIBDIR)|C:\Program Files (x86)\Microchip\xc16\v1.24\lib||$(LKRDIR)||
+SOLK=<src>|App\app.c|App\app_hooks.c|App\bsp.c|App\bsp_a.s|App\IOCon.c|Ports\os_cpu_a.s|Ports\os_cpu_c.c|Ports\os_cpu_util_a.s|Ports\os_dbg.c|uCOS-II\os_core.c|uCOS-II\os_flag.c|uCOS-II\os_mbox.c|uCOS-II\os_mem.c|uCOS-II\os_mutex.c|uCOS-II\os_q.c|uCOS-II\os_sem.c|uCOS-II\os_task.c|uCOS-II\os_time.c|uCOS-II\os_tmr.c|App\ADC.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_PICKIT2=1 --defsym=__ICD2RAM=1
+[TOOL_LOC_STAMPS]
+tool_loc{C6E07232-414F-4A0C-AF99-CD44E2B71960}=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-as.exe
+tool_loc{B1442D91-FF1F-4E60-9714-C39C1BA9DB62}=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-gcc.exe
+tool_loc{6836D8CA-42BB-48FB-9E77-3F0AA8005073}=C:\Program Files (x86)\Microchip\xc16\v1.24\bin\xc16-ld.exe

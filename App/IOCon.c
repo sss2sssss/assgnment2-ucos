@@ -7,6 +7,7 @@ void IO_Init()
     TRISBbits.TRISB10 = 0;				// LED2 as output @ RB10/pin21
 	TRISBbits.TRISB11 = 0;				// LED3 as output @ RB11/pin22
 
+	TRISBbits.TRISB7 = 1;				// SW2 as input @ RB7/pin16
 	TRISBbits.TRISB8 = 1;				// SW1 as input @ RB8/pin17
 
 	TRISAbits.TRISA0 = 1;				// AN0 as input @ RA0/pin2

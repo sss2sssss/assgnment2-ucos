@@ -75,9 +75,9 @@ section                    address   length (PC units)   length (bytes) (dec)
 .const                       0x2f8               0x1c8           0x2ac  (684)
 .text                        0x4c0              0x41ea          0x62df  (25311)
 .dinit                      0x46aa                0x1c            0x2a  (42)
-.text                       0x46c6                0x14            0x1e  (30)
+.text                       0x46c6                0x16            0x21  (33)
 
-                     Total program memory used (bytes):         0x6747  (26439) 40%
+                     Total program memory used (bytes):         0x674a  (26442) 40%
 
 
 Data Memory  [Origin = 0x800, Length = 0x2000]
@@ -1845,6 +1845,6 @@ __c30_signature
 .dinit            0x0046aa         0x1c
  .dinit           0x0046aa         0x1c data_init
 
-.text             0x0046c6         0x14
- .text            0x0046c6         0x14 IOCon.o
+.text             0x0046c6         0x16
+ .text            0x0046c6         0x16 IOCon.o
                   0x0046c6                  IO_Init
